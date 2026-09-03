@@ -21,4 +21,7 @@ htmlcov/
 *.fits
 *.evt
 *.pha
-*.log
+*.log*.aux
+*.toc
+*.out
+*.synctex.gz
