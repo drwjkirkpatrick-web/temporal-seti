@@ -1,5 +1,14 @@
 # 🔥 Temporal SETI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Tests: 54 passing](https://img.shields.io/badge/Tests-54%20passing-brightgreen.svg)](https://github.com/drwjkirkpatrick-web/temporal-seti/actions)
+[![Code Quality: numpy only](https://img.shields.io/badge/Dependencies-numpy%20only-orange.svg)](#dependencies)
+[![PDF: 13-page proofs](https://img.shields.io/badge/Proofs-13%20pages-red.svg)](docs/temporal_seti_proofs.pdf)
+[![GPU: cupy/torch/auto](https://img.shields.io/badge/GPU-cupy%2Ftorch%2Fauto-purple.svg)](#gpu-acceleration)
+[![Signal Types: 6](https://img.shields.io/badge/Signal%20Types-6-9cf.svg)](#what-it-does)
+[![Instruments: 13](https://img.shields.io/badge/Instruments-13-lightgrey.svg)](#instrument-catalog)
+
 **Searching for technosignatures encoded in time, not frequency.**
 
 Most SETI searches look for narrowband radio spikes — sharp signals in frequency space. But a civilization that can manipulate gravitational fields near neutron stars could encode information in the *temporal* dimension of X-ray photon arrival times. That signal would be invisible to every Fourier-based search ever conducted. It would hide in the timing noise, glitches, and quasi-periodic oscillations we already observe but don't fully understand.
